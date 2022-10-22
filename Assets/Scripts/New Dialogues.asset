@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88892a7534a58c4a8bc8c91cccac4ee, type: 3}
+  m_Name: New Dialogues
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "Bianka : Salut ! Est-ce que t'es capable de deviner de quel film proviennent
+    ces r\xE9pliques cultes ?"
+  - "Erwin : Bien s\xFBr ! Je t'\xE9coutes"
+  - 'Bianka : you talkin'' to me ? you...you talkin'' to me ?!'
+  - 'Erwin : Taxi Driver ! Trop facile, une autre'
+  - 'Bianka : "-Oui mais Doc , je suis de retour du futur ... -Nom de Zeus !"'
+  - "Erwin : Retout vers le futur 2 ! Allez une derni\xE8re"
+  - 'Bianka : Adrianne !!!'
+  - 'Erwin : Rocky !!'
